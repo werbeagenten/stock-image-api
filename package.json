@@ -1,5 +1,5 @@
 {
-  "name": "stock-images-node",
+  "name": "stock-image-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
